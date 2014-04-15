@@ -1,8 +1,49 @@
-# CocoaPods
-#
-# We recommend against adding the Pods directory to your .gitignore. However
-# you should judge for yourself, the pros and cons are mentioned at:
-# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control?
-#
-# Pods/
-
+.DS_Store
+.*.sw?
+*.cso
+tmp
+*.mode1v3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+CordovaLib/javascript/cordova-*.js
+CordovaLib/CordovaLibApp/www/cordova.ios.js
+console.log
+default.properties
+gen
+assets/www/cordova.js
+framework/assets/www/.tmp*
+local.properties
+framework/lib
+proguard.cfg
+proguard.cfg
+proguard-project.txt
+framework/bin
+framework/test/org/apache/cordova/*.class
+framework/assets/www/.DS_Store
+framework/assets/www/cordova-*.js
+framework/assets/www/phonegap-*.js
+framework/libs
+framework/javadoc-public
+framework/javadoc-private
+test/libs
+example
+./test
+test/bin
+test/assets/www/.tmp*
+test/assets/www/cordova.js
+test/cordova/plugins/org.apache.cordova.device/www/device.js
+test/cordova/plugins/org.apache.cordova.device/src/android/Device.java
+tmp/**
+.metadata
+tmp/**/*
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*.swp
+*.class
+*.jar
+# IntelliJ IDEA files
+*.iml
+.idea
