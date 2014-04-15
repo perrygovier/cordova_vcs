@@ -47,3 +47,6 @@ Desktop.ini
 # IntelliJ IDEA files
 *.iml
 .idea
+# Ignore compiled files
+.apk
+.ipa
